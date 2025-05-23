@@ -10,3 +10,6 @@ The model was trained and validated on labeled data, and it performs with high a
 🔬 This work demonstrates the potential of deep learning in biomedical image classification.
 All the code, visualizations (AUROC curves, class confidence plots), and results are available on my GitHub page.
 
+## 💡 Authors
+🔬 Harun Un, PhD – Clinical Biochemist & Data Scientist  
+🔬 Hamet Peltek, BSc – Pharmacist
