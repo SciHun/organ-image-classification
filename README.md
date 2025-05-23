@@ -1,5 +1,5 @@
 
-I collaborated on this study with my final-term pharmacy student, Hamet Peltek. He actively contributed by writing code, performing data cleaning, and assisting with model assessments using JupyterLab.
+I collaborated on this study with my final-term pharmacy student, 🔬Hamet Peltek. He actively contributed by writing code, performing data cleaning, and assisting with model assessments using JupyterLab.
  
 🧠 Organ Tissue Classification with CNN | PyTorch Project
 In this project, I developed a Convolutional Neural Network (CNN) model using Python and PyTorch to classify seven different human tissue types: brain, liver, heart, uterus, ovary, kidney, and lung.
